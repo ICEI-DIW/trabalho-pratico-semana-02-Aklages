@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: André Kirst Lages
+- Matricula: Matricula: 893814
 
 ## Print da tela da página criad
+![alt text](site.png)
