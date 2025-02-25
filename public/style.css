@@ -46,6 +46,16 @@ a{
     color: #4d5763;
 }
 
+nav{
+    background-color:#ffffff;
+}
+
+.navegacao{
+    margin-right: 10%;
+    color:#30505f;
+    font-size: 1.1rem;
+}
+
 #Exp, #Contact, #Skills{
     padding-left: 30px;
     padding-right: 30px;
@@ -82,14 +92,14 @@ a{
 #Contact{
     color: #ffffff;
     width: 44.555%;
-    height: 30vh;
+    height: 25vh;
     background-color: #a0bab1;
     float: right;
 }
 
 #Skills{
     width: 44.555%;
-    height: 130vh;
+    height: 135vh;
     background-color: #ffffff;
     float: right;
 }
@@ -132,6 +142,12 @@ a{
         height: 120vh;
         background-color: #ffffff;
         float: right;
+    }
+
+    .navegacao{
+        margin-right: 10%;
+        color:#30505f;;
+        font-size: 0.8rem;
     }
 
 }
