@@ -6,5 +6,5 @@
 - Nome: André Kirst Lages
 - Matricula: Matricula: 893814
 
-## Print da tela da página criad
+## Print da tela da página criada
 ![alt text](site.png)
